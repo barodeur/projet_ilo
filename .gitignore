@@ -1,0 +1,16 @@
+*.class
+*.log
+
+lib/
+
+# osx specific
+.DS_Store
+
+# sbt specific
+target/
+project/boot/
+project/target/
+
+# IntelliJ specific
+.idea
+.idea_modules

@@ -1,0 +1,3 @@
+- immutability
+- functional languages
+- thread sync? HAHA
